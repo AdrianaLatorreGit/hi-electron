@@ -1,0 +1,19 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "Meu primeiro app com Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^19.0.7"
+  },
+  "dependencies": {
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
